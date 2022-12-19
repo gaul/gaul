@@ -1,6 +1,7 @@
-Areas of interest for 2022:
+Areas of interest for 2023:
 
-* 🧪 improve s3fs and gcsfuse testing via [pjdfstest](https://github.com/pjd/pjdfstest) and [xfstests](https://github.com/kdave/xfstests)
+* 🌎 Detect suboptimal web pages via browser extensions, e.g., lack of high-resolution images
+* 🔄 Syncthing integration with S3, possibly via s3fs
 * ⚡ x86 machine code optimization via [x86lint](https://github.com/gaul/x86lint)
 
 I track [project ideas](https://github.com/gaul/gaul/issues) via GitHub issues.
