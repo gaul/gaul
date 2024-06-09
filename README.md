@@ -1,7 +1,7 @@
-Areas of interest for 2023:
+Areas of interest for 2024:
 
-* 🌎 Detect suboptimal web pages via browser extensions, e.g., lack of high-resolution images
-* 🔄 Syncthing integration with S3, possibly via s3fs
-* ⚡ x86 machine code optimization via [x86lint](https://github.com/gaul/x86lint)
+* 🔒 ARM Memory Tagging Extension investigation
+* 🌎 Detect suboptimal web pages via browser extensions, e.g., lack of high-resolution images, suboptimal caching
+* 📦 WebAssembly packaging of development tools, e.g., cppcheck, jq
 
 I track [project ideas](https://github.com/gaul/gaul/issues) via GitHub issues.
